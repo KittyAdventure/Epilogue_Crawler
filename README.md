@@ -53,7 +53,6 @@ Epilogue_Crawler/
 ├── requirements.txt      # 필요한 패키지 목록
 └── kyobo_book_crawler.py # 크롤러 코드 (DB 저장 기능 포함)
 ```
-```
 
 ---
 ## 라이선스 (License)
