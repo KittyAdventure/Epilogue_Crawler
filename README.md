@@ -31,7 +31,7 @@
 
    ```bash
    git clone https://github.com/KittyAdventure/Epilogue_Crawler.git
-   cd Epilogue_Crawler
+   cd Epilogue_Crawler```
 
 2. 필요한 패키지 설치
 
@@ -39,9 +39,7 @@
     pip install -r requirements.txt
     ```
 
-3. 크롤러 실행
-
-데이터베이스 연결 정보 등 환경에 맞게 `kyobo_book_crawler.py` 파일을 수정한 후 아래 명령어로 실행합니다.
+3. 크롤러 실행: 데이터베이스 연결 정보 등 환경에 맞게 `kyobo_book_crawler.py` 파일을 수정한 후 아래 명령어로 실행합니다.
 
     ```bash
     python kyobo_book_crawler.py
